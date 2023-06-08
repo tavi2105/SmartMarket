@@ -1,0 +1,796 @@
+Instant food products,butter,2.741145047032865
+butter,Instant food products,2.741145047032865
+Instant food products,curd,3.0885834380133352
+curd,Instant food products,3.088583438013335
+Instant food products,hamburger meat,11.42143769597027
+hamburger meat,Instant food products,11.421437695970273
+dessert,UHT-milk,2.4570096181871173
+UHT-milk,dessert,2.4570096181871173
+mustard,UHT-milk,3.0400288496213483
+UHT-milk,mustard,3.0400288496213483
+abrasive cleaner,root vegetables,3.4076492537313436
+root vegetables,abrasive cleaner,3.4076492537313436
+abrasive cleaner,sausage,3.041125541125542
+sausage,abrasive cleaner,3.041125541125542
+yogurt,artif. sweetener,2.464126275510204
+artif. sweetener,yogurt,2.464126275510204
+baking powder,butter,2.9039333544237054
+butter,baking powder,2.9039333544237054
+cream cheese,baking powder,2.4638225758915415
+baking powder,cream cheese,2.4638225758915415
+baking powder,domestic eggs,2.8080330828175653
+domestic eggs,baking powder,2.8080330828175653
+baking powder,flour,5.949788263762856
+flour,baking powder,5.949788263762856
+frozen vegetables,baking powder,2.867974046803237
+baking powder,frozen vegetables,2.8679740468032366
+grapes,baking powder,2.826149425287356
+baking powder,grapes,2.826149425287356
+hard cheese,baking powder,3.048957886202127
+baking powder,hard cheese,3.048957886202127
+baking powder,long life bakery product,2.9183064717641183
+long life bakery product,baking powder,2.918306471764118
+baking powder,margarine,2.943905651340996
+margarine,baking powder,2.9439056513409962
+oil,baking powder,3.276694985840413
+baking powder,oil,3.2766949858404124
+sugar,baking powder,5.431638535086811
+baking powder,sugar,5.431638535086811
+baking powder,whipped/sour cream,3.607850330154072
+whipped/sour cream,baking powder,3.607850330154072
+beef,berries,2.5646587487850554
+berries,beef,2.5646587487850554
+beef,cat food,2.829880505060763
+cat food,beef,2.8298805050607627
+beef,dog food,2.7228682170542635
+dog food,beef,2.7228682170542635
+beef,flour,3.1209483657464077
+flour,beef,3.1209483657464077
+beef,frozen potato products,2.5260343700382926
+frozen potato products,beef,2.5260343700382926
+beef,herbs,3.3355135658914734
+herbs,beef,3.335513565891473
+beef,jam,4.315489249670908
+jam,beef,4.315489249670909
+beef,mayonnaise,2.541343669250646
+mayonnaise,beef,2.541343669250646
+beef,pickled vegetables,2.490805584918957
+pickled vegetables,beef,2.4908055849189568
+pork,beef,2.5211742750502437
+beef,pork,2.521174275050244
+beef,rice,3.049612403100775
+rice,beef,3.049612403100775
+beef,roll products,2.4532773044746334
+roll products,beef,2.4532773044746334
+beef,root vegetables,3.0403668431100312
+root vegetables,beef,3.0403668431100312
+beef,soft cheese,2.7228682170542635
+soft cheese,beef,2.7228682170542635
+beef,turkey,2.6207606589147288
+turkey,beef,2.6207606589147283
+cake bar,berries,3.4703599153140434
+berries,cake bar,3.470359915314044
+berries,cling film/bags,2.6853975535168195
+cling film/bags,berries,2.685397553516819
+grapes,berries,3.55448985265499
+berries,grapes,3.5544898526549904
+mustard,berries,2.548851915202405
+berries,mustard,2.548851915202405
+packaged fruit/vegetables,berries,3.2896120030581044
+berries,packaged fruit/vegetables,3.2896120030581044
+soft cheese,berries,2.5063710499490313
+berries,soft cheese,2.5063710499490317
+whipped/sour cream,berries,3.7968855054547026
+berries,whipped/sour cream,3.796885505454703
+liquor,bottled beer,5.240594013529793
+bottled beer,liquor,5.240594013529793
+bottled beer,liquor (appetizer),2.86567599067599
+liquor (appetizer),bottled beer,2.8656759906759905
+red/blush wine,bottled beer,3.1537598204264876
+bottled beer,red/blush wine,3.153759820426487
+tea,bottled beer,3.5946637426900576
+bottled beer,tea,3.594663742690058
+bottled water,male cosmetics,2.6138198916487783
+male cosmetics,bottled water,2.6138198916487783
+shopping bags,brandy,3.2181781570137686
+brandy,shopping bags,3.2181781570137686
+sauces,brown bread,3.4256356670149772
+brown bread,sauces,3.425635667014977
+turkey,brown bread,2.504996081504702
+brown bread,turkey,2.504996081504702
+chicken,butter,2.4374755424148877
+butter,chicken,2.4374755424148877
+butter,domestic eggs,2.7473682662902847
+domestic eggs,butter,2.7473682662902843
+butter,flower (seeds),2.8307249505306706
+flower (seeds),butter,2.830724950530671
+hard cheese,butter,2.9202862689862576
+butter,hard cheese,2.9202862689862576
+herbs,butter,3.0452408256880736
+butter,herbs,3.0452408256880736
+butter,jam,4.085857711615025
+jam,butter,4.085857711615025
+pasta,butter,2.9263575502107613
+butter,pasta,2.9263575502107613
+butter,processed cheese,2.6570608431361515
+processed cheese,butter,2.6570608431361515
+rice,butter,4.331009174311927
+butter,rice,4.331009174311927
+roll products,butter,2.5014079389590336
+butter,roll products,2.5014079389590336
+sliced cheese,butter,2.7705279987818345
+butter,sliced cheese,2.770527998781834
+butter,soft cheese,2.9002293577981653
+soft cheese,butter,2.900229357798165
+soups,butter,2.69341366561687
+butter,soups,2.69341366561687
+butter,turkey,3.3836009174311927
+turkey,butter,3.3836009174311927
+whipped/sour cream,butter,2.5596980935649682
+butter,whipped/sour cream,2.5596980935649682
+cream cheese,butter milk,2.9344522144522145
+butter milk,cream cheese,2.9344522144522145
+butter milk,dessert,2.7435118306351183
+dessert,butter milk,2.7435118306351187
+pip fruit,butter milk,2.40347018572825
+butter milk,pip fruit,2.40347018572825
+sliced cheese,butter milk,3.5615239532251985
+butter milk,sliced cheese,3.561523953225198
+curd,cake bar,2.7431738109219026
+cake bar,curd,2.7431738109219026
+cake bar,dessert,3.938145416227608
+dessert,cake bar,3.938145416227608
+specialty bar,cake bar,3.0936517014583926
+cake bar,specialty bar,3.0936517014583926
+margarine,candles,4.074633049242425
+candles,margarine,4.074633049242425
+pastry,candles,2.4268181818181818
+candles,pastry,2.426818181818182
+chocolate,candy,3.358948087431694
+candy,chocolate,3.358948087431694
+chocolate marshmallow,candy,5.262172284644196
+candy,chocolate marshmallow,5.262172284644195
+frozen fish,candy,2.908902691511387
+candy,frozen fish,2.908902691511387
+hard cheese,candy,2.637324639399328
+candy,hard cheese,2.637324639399328
+candy,processed cheese,3.2836692959392346
+processed cheese,candy,3.2836692959392346
+seasonal products,candy,2.628401360544218
+candy,seasonal products,2.628401360544218
+specialty chocolate,candy,2.5732600732600734
+candy,specialty chocolate,2.5732600732600734
+waffles,candy,2.566452506928697
+candy,waffles,2.5664525069286976
+canned beer,liquor (appetizer),2.8056618338031947
+liquor (appetizer),canned beer,2.8056618338031947
+cream cheese,canned fish,3.407830907830908
+canned fish,cream cheese,3.4078309078309084
+canned fish,mustard,5.631584974805314
+mustard,canned fish,5.631584974805313
+canned fish,pickled vegetables,4.153293918918918
+pickled vegetables,canned fish,4.153293918918918
+canned fish,waffles,2.4612112112112117
+waffles,canned fish,2.4612112112112117
+canned fruit,citrus fruit,4.153293918918919
+citrus fruit,canned fruit,4.153293918918919
+dessert,canned vegetables,2.796200568622383
+canned vegetables,dessert,2.796200568622383
+frozen vegetables,canned vegetables,2.5500618293509913
+canned vegetables,frozen vegetables,2.5500618293509913
+hamburger meat,canned vegetables,4.539841901794472
+canned vegetables,hamburger meat,4.539841901794472
+hard cheese,canned vegetables,4.619901354419479
+canned vegetables,hard cheese,4.619901354419479
+onions,canned vegetables,3.346272811630065
+canned vegetables,onions,3.3462728116300653
+tropical fruit,canned vegetables,2.427462702939886
+canned vegetables,tropical fruit,2.427462702939886
+chocolate,cat food,2.7282285775646073
+cat food,chocolate,2.728228577564608
+cat food,dish cleaner,4.586636706660449
+dish cleaner,cat food,4.586636706660448
+cat food,dishes,2.482520130247116
+dishes,cat food,2.482520130247116
+cat food,flour,3.013866544089481
+flour,cat food,3.0138665440894816
+cat food,hygiene articles,2.651086311930562
+hygiene articles,cat food,2.651086311930562
+cat food,napkins,2.9187688133293763
+napkins,cat food,2.9187688133293763
+cat food,pet care,6.0034277128234015
+pet care,cat food,6.0034277128234015
+cat food,semi-finished bread,2.715078050494403
+semi-finished bread,cat food,2.715078050494403
+cat food,soft cheese,3.0676855895196504
+soft cheese,cat food,3.0676855895196504
+cereals,curd,3.6867843511450378
+curd,cereals,3.6867843511450378
+cereals,domestic eggs,2.8145032051282044
+domestic eggs,cereals,2.814503205128205
+cereals,whipped/sour cream,2.4911347517730493
+whipped/sour cream,cereals,2.4911347517730493
+cereals,whole milk,2.5159172304019095
+whole milk,cereals,2.5159172304019095
+cereals,yogurt,2.6881377551020407
+yogurt,cereals,2.6881377551020407
+chicken,flour,2.4532302319780492
+flour,chicken,2.4532302319780492
+chicken,frozen vegetables,3.251956354017414
+frozen vegetables,chicken,3.251956354017414
+chicken,hamburger meat,2.63703494354827
+hamburger meat,chicken,2.63703494354827
+chicken,herbs,2.9132109004739335
+herbs,chicken,2.9132109004739335
+chicken,packaged fruit/vegetables,2.731135219194313
+packaged fruit/vegetables,chicken,2.7311352191943126
+chicken,pasta,2.5195337517612395
+pasta,chicken,2.5195337517612395
+chicken,pickled vegetables,2.5159548685911246
+pickled vegetables,chicken,2.5159548685911246
+chicken,rice,4.039652448657188
+rice,chicken,4.039652448657188
+roll products,chicken,2.768992539064333
+chicken,roll products,2.768992539064333
+chicken,salt,2.4185147098274165
+salt,chicken,2.4185147098274165
+chicken,soft cheese,2.63576224328594
+soft cheese,chicken,2.63576224328594
+chocolate,chocolate marshmallow,3.623135015656659
+chocolate marshmallow,chocolate,3.6231350156566586
+chocolate,dental care,3.5357348288754675
+dental care,chocolate,3.535734828875467
+chocolate,finished products,3.7788165983606565
+finished products,chocolate,3.7788165983606565
+chocolate,frozen potato products,2.6709707683191786
+frozen potato products,chocolate,2.670970768319178
+chocolate,house keeping products,3.1950969612155142
+house keeping products,chocolate,3.195096961215514
+chocolate,long life bakery product,2.847803813257306
+long life bakery product,chocolate,2.847803813257306
+mayonnaise,chocolate,3.58287795992714
+chocolate,mayonnaise,3.5828779599271403
+chocolate,mustard,2.561909558210614
+mustard,chocolate,2.561909558210614
+chocolate,rice,2.6871584699453557
+rice,chocolate,2.6871584699453552
+chocolate,waffles,3.039048269581057
+waffles,chocolate,3.039048269581057
+chocolate marshmallow,domestic eggs,3.1876620570440792
+domestic eggs,chocolate marshmallow,3.1876620570440792
+frozen vegetables,chocolate marshmallow,2.8035251918188946
+chocolate marshmallow,frozen vegetables,2.8035251918188946
+chocolate marshmallow,long life bakery product,3.002870053737176
+long life bakery product,chocolate marshmallow,3.002870053737176
+margarine,chocolate marshmallow,2.4940504057428217
+chocolate marshmallow,margarine,2.494050405742821
+napkins,chocolate marshmallow,2.57488818588415
+chocolate marshmallow,napkins,2.5748881858841495
+pork,chocolate marshmallow,2.728533777222916
+chocolate marshmallow,pork,2.7285337772229163
+chocolate marshmallow,waffles,4.092800665834375
+waffles,chocolate marshmallow,4.092800665834374
+female sanitary products,citrus fruit,2.6178337428337426
+citrus fruit,female sanitary products,2.617833742833743
+rice,citrus fruit,2.8997542997542998
+citrus fruit,rice,2.8997542997543
+soups,citrus fruit,2.8853276614470644
+citrus fruit,soups,2.8853276614470644
+turkey,citrus fruit,2.5674907862407865
+citrus fruit,turkey,2.5674907862407865
+coffee,cling film/bags,3.229531523642732
+cling film/bags,coffee,3.229531523642732
+frozen vegetables,cling film/bags,2.5991014799154333
+cling film/bags,frozen vegetables,2.5991014799154333
+hygiene articles,cling film/bags,2.710262345679012
+cling film/bags,hygiene articles,2.710262345679012
+long life bakery product,cling film/bags,2.624830163043478
+cling film/bags,long life bakery product,2.624830163043478
+napkins,cling film/bags,2.557645631067961
+cling film/bags,napkins,2.557645631067961
+condensed milk,coffee,4.263407952003607
+coffee,condensed milk,4.263407952003606
+jam,coffee,3.249843042659353
+coffee,jam,3.249843042659353
+kitchen towels,coffee,3.5032206358158446
+coffee,kitchen towels,3.5032206358158446
+rice,coffee,2.7558669001751315
+coffee,rice,2.7558669001751315
+soups,coffee,2.827848498314034
+coffee,soups,2.8278484983140344
+sugar,coffee,2.4310387445238586
+coffee,sugar,2.431038744523858
+condensed milk,salty snack,2.617640796337698
+salty snack,condensed milk,2.617640796337698
+sugar,condensed milk,2.9242113400529246
+condensed milk,sugar,2.9242113400529246
+cream cheese,curd,2.40629281659816
+curd,cream cheese,2.40629281659816
+cream cheese,dessert,2.4181594661046715
+dessert,cream cheese,2.4181594661046715
+cream cheese,mayonnaise,3.082193732193732
+mayonnaise,cream cheese,3.082193732193732
+cream cheese,meat spreads,6.604700854700854
+meat spreads,cream cheese,6.604700854700854
+cream cheese,sliced cheese,2.5113309926587934
+sliced cheese,cream cheese,2.511330992658794
+cream cheese,soft cheese,3.002136752136752
+soft cheese,cream cheese,3.002136752136752
+cream cheese,spread cheese,2.5217948717948717
+spread cheese,cream cheese,2.5217948717948717
+cream cheese,sweet spreads,3.1168251224431
+sweet spreads,cream cheese,3.1168251224431
+cream cheese,vinegar,3.9403044871794877
+vinegar,cream cheese,3.9403044871794872
+curd,dessert,2.622529540939036
+dessert,curd,2.6225295409390363
+curd,flour,3.402582473996697
+flour,curd,3.402582473996697
+frozen dessert,curd,2.4789356186086713
+curd,frozen dessert,2.478935618608671
+herbs,curd,2.8153625954198476
+curd,herbs,2.8153625954198476
+curd,house keeping products,2.517803947123441
+house keeping products,curd,2.517803947123441
+roll products,curd,2.601655203688308
+curd,roll products,2.601655203688308
+curd,soft cheese,2.457856234096692
+soft cheese,curd,2.457856234096692
+curd,turkey,3.5192032442748094
+turkey,curd,3.5192032442748094
+whipped/sour cream,curd,2.7421498565318605
+curd,whipped/sour cream,2.7421498565318605
+tropical fruit,curd cheese,2.859011627906977
+curd cheese,tropical fruit,2.8590116279069773
+newspapers,dental care,2.8574142362275112
+dental care,newspapers,2.8574142362275112
+dessert,ham,2.841877140410959
+ham,dessert,2.841877140410959
+pasta,dessert,2.548870788596816
+dessert,pasta,2.5488707885968163
+pickled vegetables,dessert,2.4495641344956414
+dessert,pickled vegetables,2.449564134495641
+dessert,seasonal products,2.886986301369863
+seasonal products,dessert,2.886986301369863
+soft cheese,dessert,2.8869863013698627
+dessert,soft cheese,2.8869863013698627
+white bread,dessert,2.538316458209252
+dessert,white bread,2.538316458209252
+frozen vegetables,detergent,2.970401691331924
+detergent,frozen vegetables,2.9704016913319244
+grapes,detergent,2.6018518518518516
+detergent,grapes,2.6018518518518516
+detergent,house keeping products,6.345980126467932
+house keeping products,detergent,6.345980126467932
+detergent,hygiene articles,2.4091220850480113
+hygiene articles,detergent,2.409122085048011
+oil,detergent,3.393719806763285
+detergent,oil,3.3937198067632854
+pasta,detergent,3.867617617617617
+detergent,pasta,3.867617617617617
+potted plants,detergent,3.3671023965141615
+detergent,potted plants,3.367102396514161
+detergent,softener,10.600137174211248
+softener,detergent,10.600137174211248
+hamburger meat,dish cleaner,3.504052730025831
+dish cleaner,hamburger meat,3.504052730025831
+dish cleaner,hygiene articles,3.536497662711255
+hygiene articles,dish cleaner,3.536497662711255
+napkins,dish cleaner,2.7811292298991424
+dish cleaner,napkins,2.7811292298991424
+oil,dish cleaner,3.8055790066131983
+dish cleaner,oil,3.8055790066131983
+napkins,dishes,2.980470284527751
+dishes,napkins,2.980470284527751
+dog food,frozen vegetables,2.475334742776603
+frozen vegetables,dog food,2.475334742776603
+fruit/vegetable juice,dog food,2.4701125175808722
+dog food,fruit/vegetable juice,2.470112517580872
+flour,domestic eggs,2.949467686309791
+domestic eggs,flour,2.949467686309791
+ham,domestic eggs,2.5242575620993586
+domestic eggs,ham,2.5242575620993586
+hard cheese,domestic eggs,2.4851712948185973
+domestic eggs,hard cheese,2.4851712948185978
+ketchup,domestic eggs,4.878472222222221
+domestic eggs,ketchup,4.878472222222221
+mayonnaise,domestic eggs,2.451745014245014
+domestic eggs,mayonnaise,2.451745014245014
+mustard,domestic eggs,2.4042535853976528
+domestic eggs,mustard,2.4042535853976528
+onions,domestic eggs,2.480453972257251
+domestic eggs,onions,2.480453972257251
+rice,domestic eggs,2.7319444444444443
+domestic eggs,rice,2.7319444444444443
+salt,domestic eggs,2.82512397194001
+domestic eggs,salt,2.82512397194001
+soft cheese,domestic eggs,2.9083199786324783
+domestic eggs,soft cheese,2.9083199786324783
+soups,domestic eggs,2.5876626482969765
+domestic eggs,soups,2.5876626482969765
+pastry,finished products,2.45875
+finished products,pastry,2.45875
+flour,hygiene articles,2.8402281423723914
+hygiene articles,flour,2.840228142372392
+margarine,flour,3.6945155133203382
+flour,margarine,3.6945155133203382
+oil,flour,3.7509534706331045
+flour,oil,3.750953470633105
+roll products,flour,5.694516820103064
+flour,roll products,5.694516820103064
+flour,root vegetables,2.4679780919961596
+root vegetables,flour,2.4679780919961596
+flour,salty snack,2.628356284977677
+salty snack,flour,2.628356284977677
+sugar,flour,8.463112235042061
+flour,sugar,8.46311223504206
+whipped/sour cream,flour,3.2632408444278544
+flour,whipped/sour cream,3.263240844427855
+frozen vegetables,flower (seeds),2.446213157567467
+flower (seeds),frozen vegetables,2.446213157567467
+frankfurter,frozen fish,2.5066716641679156
+frozen fish,frankfurter,2.506671664167916
+frankfurter,frozen potato products,3.0644993768176154
+frozen potato products,frankfurter,3.0644993768176154
+mayonnaise,frankfurter,2.6377394636015326
+frankfurter,mayonnaise,2.6377394636015326
+frankfurter,mustard,3.5925628287551135
+mustard,frankfurter,3.5925628287551135
+frankfurter,pickled vegetables,2.601342084639499
+pickled vegetables,frankfurter,2.6013420846394983
+frankfurter,soups,2.783968090581575
+soups,frankfurter,2.783968090581575
+frankfurter,vinegar,2.9144665948275863
+vinegar,frankfurter,2.9144665948275863
+frozen dessert,frozen meals,4.9883343477378785
+frozen meals,frozen dessert,4.9883343477378785
+frozen dessert,frozen vegetables,3.5308548406398343
+frozen vegetables,frozen dessert,3.5308548406398343
+frozen dessert,long life bakery product,2.521277686628384
+long life bakery product,frozen dessert,2.521277686628384
+frozen dessert,margarine,2.416224449685535
+margarine,frozen dessert,2.4162244496855347
+frozen meals,frozen fish,4.59794296400187
+frozen fish,frozen meals,4.59794296400187
+frozen vegetables,frozen fish,3.2545270705028035
+frozen fish,frozen vegetables,3.254527070502803
+frozen fish,long life bakery product,2.5563563327032135
+long life bakery product,frozen fish,2.556356332703213
+frozen fish,margarine,3.117980072463768
+margarine,frozen fish,3.117980072463768
+frozen fish,onions,2.8039914468995013
+onions,frozen fish,2.803991446899501
+pip fruit,frozen fish,2.4139200561009817
+frozen fish,pip fruit,2.4139200561009817
+pork,frozen fish,3.016639828234031
+frozen fish,pork,3.016639828234031
+sliced cheese,frozen fish,3.903481869023994
+frozen fish,sliced cheese,3.903481869023994
+sugar,frozen fish,3.0818644731688214
+frozen fish,sugar,3.081864473168821
+frozen vegetables,frozen meals,2.682943463138512
+frozen meals,frozen vegetables,2.682943463138512
+frozen meals,ham,2.478578629032258
+ham,frozen meals,2.478578629032258
+frozen meals,long life bakery product,2.490552438834346
+long life bakery product,frozen meals,2.490552438834346
+pasta,frozen meals,4.2872711421098515
+frozen meals,pasta,4.2872711421098515
+sliced cheese,frozen meals,2.7791162866788617
+frozen meals,sliced cheese,2.779116286678862
+frozen vegetables,frozen potato products,2.755673858223592
+frozen potato products,frozen vegetables,2.7556738582235916
+fruit/vegetable juice,frozen potato products,2.6665311033162187
+frozen potato products,fruit/vegetable juice,2.6665311033162182
+frozen potato products,napkins,2.5309392911451627
+napkins,frozen potato products,2.5309392911451627
+pork,frozen potato products,2.7167930983192026
+frozen potato products,pork,2.716793098319203
+frozen potato products,white bread,3.148390664105698
+white bread,frozen potato products,3.148390664105698
+herbs,frozen vegetables,3.248876849894292
+frozen vegetables,herbs,3.2488768498942915
+frozen vegetables,house keeping products,2.535708760893106
+house keeping products,frozen vegetables,2.535708760893106
+frozen vegetables,instant coffee,3.1331634278432623
+instant coffee,frozen vegetables,3.133163427843262
+frozen vegetables,liquor (appetizer),2.9323196183661295
+liquor (appetizer),frozen vegetables,2.9323196183661295
+frozen vegetables,liver loaf,4.158562367864694
+liver loaf,frozen vegetables,4.158562367864693
+frozen vegetables,packaged fruit/vegetables,2.7615453224101483
+packaged fruit/vegetables,frozen vegetables,2.761545322410148
+frozen vegetables,pickled vegetables,3.071665385354603
+pickled vegetables,frozen vegetables,3.071665385354603
+frozen vegetables,rice,3.8813248766737143
+rice,frozen vegetables,3.881324876673714
+frozen vegetables,semi-finished bread,2.6289762095696334
+semi-finished bread,frozen vegetables,2.6289762095696334
+frozen vegetables,soft cheese,2.7228682170542635
+soft cheese,frozen vegetables,2.722868217054263
+soups,frozen vegetables,3.413745227351614
+frozen vegetables,soups,3.413745227351614
+specialty cheese,frozen vegetables,2.475334742776603
+frozen vegetables,specialty cheese,2.475334742776603
+frozen vegetables,turkey,3.1189217758985204
+turkey,frozen vegetables,3.11892177589852
+fruit/vegetable juice,popcorn,2.5327350884491193
+popcorn,fruit/vegetable juice,2.5327350884491193
+fruit/vegetable juice,processed cheese,2.4610200788658507
+processed cheese,fruit/vegetable juice,2.4610200788658507
+fruit/vegetable juice,rice,3.5042662916080642
+rice,fruit/vegetable juice,3.5042662916080642
+fruit/vegetable juice,turkey,2.5936181434599157
+turkey,fruit/vegetable juice,2.5936181434599157
+fruit/vegetable juice,white bread,2.439086949727199
+white bread,fruit/vegetable juice,2.4390869497271996
+grapes,ice cream,2.725886917960089
+ice cream,grapes,2.725886917960089
+grapes,oil,2.4295948616600795
+oil,grapes,2.429594861660079
+grapes,potted plants,3.418582887700535
+potted plants,grapes,3.418582887700535
+grapes,tropical fruit,2.5991014799154337
+tropical fruit,grapes,2.5991014799154333
+hard cheese,ham,4.30408778526971
+ham,hard cheese,4.30408778526971
+ham,processed cheese,7.070791794478528
+processed cheese,ham,7.070791794478529
+ham,semi-finished bread,3.3118938577586206
+semi-finished bread,ham,3.3118938577586206
+sliced cheese,ham,4.144677126556016
+ham,sliced cheese,4.144677126556016
+soft cheese,ham,3.8875325520833335
+ham,soft cheese,3.887532552083333
+spread cheese,ham,3.4925426136363638
+ham,spread cheese,3.4925426136363638
+white bread,ham,4.639851298309178
+ham,white bread,4.639851298309179
+hard cheese,hamburger meat,2.4959711700737244
+hamburger meat,hard cheese,2.4959711700737244
+herbs,hamburger meat,2.8196674311926606
+hamburger meat,herbs,2.8196674311926606
+mayonnaise,hamburger meat,3.3418280665987083
+hamburger meat,mayonnaise,3.3418280665987083
+pasta,hamburger meat,5.486920406645177
+hamburger meat,pasta,5.4869204066451776
+rice,hamburger meat,4.0101936799184505
+hamburger meat,rice,4.0101936799184505
+roll products,hamburger meat,2.9778665939988493
+hamburger meat,roll products,2.9778665939988493
+sauces,hamburger meat,6.683656133197418
+hamburger meat,sauces,6.683656133197418
+sweet spreads,hamburger meat,3.717314366216541
+hamburger meat,sweet spreads,3.717314366216541
+hard cheese,napkins,2.6149538734238402
+napkins,hard cheese,2.6149538734238407
+hard cheese,onions,2.676008434800354
+onions,hard cheese,2.676008434800354
+pasta,hard cheese,3.5845856229673654
+hard cheese,pasta,3.5845856229673654
+hard cheese,rice,5.441217150760719
+rice,hard cheese,5.4412171507607185
+sliced cheese,hard cheese,3.386649678896713
+hard cheese,sliced cheese,3.386649678896713
+hard cheese,soft cheese,3.886583679114799
+soft cheese,hard cheese,3.886583679114799
+hard cheese,whipped/sour cream,2.5469527088667197
+whipped/sour cream,hard cheese,2.5469527088667197
+herbs,hygiene articles,2.466338734567901
+hygiene articles,herbs,2.466338734567901
+oil,herbs,4.00883152173913
+herbs,oil,4.008831521739131
+herbs,onions,2.8215163934426233
+onions,herbs,2.8215163934426233
+herbs,other vegetables,2.4548738833420916
+other vegetables,herbs,2.454873883342091
+herbs,potted plants,3.9773897058823526
+potted plants,herbs,3.977389705882353
+herbs,root vegetables,3.956477378731343
+root vegetables,herbs,3.9564773787313436
+herbs,whipped/sour cream,2.702881205673759
+whipped/sour cream,herbs,2.702881205673759
+honey,whole milk,2.8700092850510672
+whole milk,honey,2.8700092850510672
+house keeping products,hygiene articles,4.072003914483589
+hygiene articles,house keeping products,4.072003914483589
+long life bakery product,house keeping products,3.585133881230117
+house keeping products,long life bakery product,3.585133881230117
+napkins,house keeping products,3.7262609519299073
+house keeping products,napkins,3.7262609519299077
+napkins,hygiene articles,3.5364976627112545
+hygiene articles,napkins,3.5364976627112545
+oil,hygiene articles,2.8595231705135085
+hygiene articles,oil,2.8595231705135085
+pasta,hygiene articles,2.4612112112112112
+hygiene articles,pasta,2.4612112112112112
+ice cream,salty snack,2.4718616137774276
+salty snack,ice cream,2.4718616137774276
+whipped/sour cream,instant coffee,2.484309725055863
+instant coffee,whipped/sour cream,2.4843097250558634
+jam,root vegetables,3.2889502956913548
+root vegetables,jam,3.288950295691355
+napkins,kitchen towels,3.236794470956063
+kitchen towels,napkins,3.2367944709560637
+kitchen towels,salty snack,4.481046108984873
+salty snack,kitchen towels,4.481046108984873
+red/blush wine,liquor,10.025484199796127
+liquor,red/blush wine,10.025484199796127
+newspapers,liquor (appetizer),2.5699820349501876
+liquor (appetizer),newspapers,2.569982034950187
+root vegetables,liver loaf,2.56884328358209
+liver loaf,root vegetables,2.56884328358209
+mayonnaise,long life bakery product,2.969504830917874
+long life bakery product,mayonnaise,2.969504830917874
+mustard,long life bakery product,2.717851879145173
+long life bakery product,mustard,2.717851879145173
+napkins,long life bakery product,2.439030181511186
+long life bakery product,napkins,2.439030181511186
+pickled vegetables,long life bakery product,2.429594861660079
+long life bakery product,pickled vegetables,2.429594861660079
+long life bakery product,processed cheese,2.7873266204321157
+processed cheese,long life bakery product,2.7873266204321157
+long life bakery product,soft cheese,2.8634510869565215
+soft cheese,long life bakery product,2.8634510869565215
+sweet spreads,long life bakery product,3.002870053737176
+long life bakery product,sweet spreads,3.002870053737176
+long life bakery product,waffles,2.828099838969404
+waffles,long life bakery product,2.8280998389694045
+long life bakery product,white bread,2.7758414723797524
+white bread,long life bakery product,2.7758414723797524
+mayonnaise,margarine,3.2252121913580245
+margarine,mayonnaise,3.225212191358025
+rice,margarine,2.5042824074074073
+margarine,rice,2.5042824074074073
+roll products,margarine,3.0430074257425743
+margarine,roll products,3.0430074257425743
+soups,margarine,3.3129923300165838
+margarine,soups,3.3129923300165838
+margarine,specialty fat,5.6915509259259265
+specialty fat,margarine,5.6915509259259265
+sugar,margarine,2.768862612612613
+margarine,sugar,2.768862612612613
+mayonnaise,mustard,12.965160075329566
+mustard,mayonnaise,12.965160075329566
+mayonnaise,onions,3.5828779599271403
+onions,mayonnaise,3.5828779599271403
+mayonnaise,root vegetables,2.548455638474295
+root vegetables,mayonnaise,2.548455638474295
+mayonnaise,sausage,2.4835858585858586
+sausage,mayonnaise,2.483585858585859
+pickled vegetables,meat,2.860034896206156
+meat,pickled vegetables,2.860034896206156
+sliced cheese,meat,2.4099879112621294
+meat,sliced cheese,2.4099879112621294
+meat,soft cheese,2.765748031496063
+soft cheese,meat,2.7657480314960625
+yogurt,meat spreads,3.0721574344023317
+meat spreads,yogurt,3.072157434402332
+oil,mustard,4.2277695897813805
+mustard,oil,4.2277695897813805
+mustard,onions,3.5525145873853843
+onions,mustard,3.5525145873853843
+mustard,pickled vegetables,4.735651001540832
+pickled vegetables,mustard,4.735651001540832
+mustard,root vegetables,2.5657333038198837
+root vegetables,mustard,2.5657333038198837
+sliced cheese,mustard,3.458400731415711
+mustard,sliced cheese,3.4584007314157112
+rice,napkins,2.800906148867314
+napkins,rice,2.8009061488673135
+vinegar,napkins,2.9839199029126213
+napkins,vinegar,2.9839199029126213
+oil,pasta,3.611559929494712
+pasta,oil,3.6115599294947125
+oil,pickled vegetables,3.2394598155467724
+pickled vegetables,oil,3.239459815546772
+roll products,oil,4.586561917061272
+oil,roll products,4.586561917061272
+oil,salt,3.361703582171179
+salt,oil,3.3617035821711787
+oil,soft cheese,2.757397342995169
+soft cheese,oil,2.757397342995169
+root vegetables,onions,2.79745228774162
+onions,root vegetables,2.79745228774162
+salt,onions,4.563099288586453
+onions,salt,4.563099288586453
+sliced cheese,onions,2.542208013060336
+onions,sliced cheese,2.542208013060336
+soft cheese,onions,3.262978142076503
+onions,soft cheese,3.2629781420765025
+specialty cheese,onions,4.222677595628415
+onions,specialty cheese,4.222677595628414
+turkey,onions,4.030737704918033
+onions,turkey,4.030737704918033
+other vegetables,rice,2.6874408828166056
+rice,other vegetables,2.687440882816605
+roll products,other vegetables,2.4049832728937632
+other vegetables,roll products,2.4049832728937632
+other vegetables,specialty cheese,2.5840777719390435
+specialty cheese,other vegetables,2.5840777719390435
+other vegetables,turkey,2.5194758276405675
+turkey,other vegetables,2.5194758276405675
+packaged fruit/vegetables,root vegetables,2.436960704291045
+root vegetables,packaged fruit/vegetables,2.436960704291045
+pasta,waffles,2.4612112112112117
+waffles,pasta,2.4612112112112117
+pastry,potato products,4.014285714285714
+potato products,pastry,4.014285714285713
+pastry,turkey,2.6694999999999998
+turkey,pastry,2.6695
+pickled vegetables,processed cheese,3.7710889570552153
+processed cheese,pickled vegetables,3.771088957055215
+pip fruit,rice,2.467562724014337
+rice,pip fruit,2.467562724014337
+pip fruit,softener,2.6927767821585022
+softener,pip fruit,2.6927767821585022
+pip fruit,soups,2.7621970791205266
+soups,pip fruit,2.7621970791205266
+spices,pip fruit,2.85117541640312
+pip fruit,spices,2.85117541640312
+tropical fruit,pip fruit,2.5746475681420353
+pip fruit,tropical fruit,2.5746475681420353
+pip fruit,turkey,2.643817204301075
+turkey,pip fruit,2.643817204301075
+popcorn,salty snack,8.192109647130092
+salty snack,popcorn,8.192109647130092
+pork,rice,2.775308641975309
+rice,pork,2.775308641975309
+pork,roll products,2.7478303385894143
+roll products,pork,2.7478303385894147
+tropical fruit,processed cheese,2.4555928092452564
+processed cheese,tropical fruit,2.455592809245257
+white bread,processed cheese,5.975445303932901
+processed cheese,white bread,5.975445303932901
+rice,root vegetables,3.792101990049752
+root vegetables,rice,3.7921019900497517
+sugar,rice,4.725525525525526
+rice,sugar,4.725525525525526
+tropical fruit,rice,2.414276485788114
+rice,tropical fruit,2.414276485788114
+rice,whole milk,2.400371402042711
+whole milk,rice,2.400371402042711
+roll products,root vegetables,2.8159173193438747
+root vegetables,roll products,2.815917319343875
+roll products,sugar,3.8014747420688018
+sugar,roll products,3.8014747420688018
+roll products,whipped/sour cream,2.4862018116705284
+whipped/sour cream,roll products,2.486201811670529
+tidbits,rolls/buns,2.8365419280409543
+rolls/buns,tidbits,2.8365419280409547
+turkey,root vegetables,2.867012593283582
+root vegetables,turkey,2.8670125932835817
+sugar,salt,5.015298317185111
+salt,sugar,5.015298317185111
+salt,whipped/sour cream,2.7637494981934974
+whipped/sour cream,salt,2.763749498193497
+waffles,salty snack,2.657805655117483
+salty snack,waffles,2.6578056551174836
+sliced cheese,sausage,3.047434930215013
+sausage,sliced cheese,3.047434930215013
+spices,sausage,2.7131610219845514
+sausage,spices,2.7131610219845514
+sliced cheese,soft cheese,4.372406639004149
+soft cheese,sliced cheese,4.372406639004149
+tidbits,soda,2.4933451641526174
+soda,tidbits,2.4933451641526174
+soft cheese,specialty chocolate,2.5452898550724634
+specialty chocolate,soft cheese,2.5452898550724634
+whipped/sour cream,soft cheese,2.4911347517730493
+soft cheese,whipped/sour cream,2.4911347517730493
+soft cheese,white bread,2.686694847020934
+white bread,soft cheese,2.686694847020934
+yogurt,soft cheese,2.517462342079689
+soft cheese,yogurt,2.5174623420796887
+sugar,soups,4.408139482766349
+soups,sugar,4.408139482766349
+soups,whipped/sour cream,3.1232137186408386
+whipped/sour cream,soups,3.1232137186408386
+specialty bar,waffles,2.7082472807379876
+waffles,specialty bar,2.7082472807379876
+sweet spreads,white bread,4.003826738316235
+white bread,sweet spreads,4.003826738316235
+tea,tropical fruit,3.260276417788657
+tropical fruit,tea,3.2602764177886576
+tropical fruit,turkey,3.097262596899225
+turkey,tropical fruit,3.097262596899225
